@@ -1,0 +1,17 @@
+main{
+
+    text-align: center;
+}
+
+.item-portifolio{
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid rgb(109, 214, 179);
+    
+}
+
+.item-portifolio a  {
+    text-decoration: none;
+    color: 20514E;
+    font-weight: bold;
+}
